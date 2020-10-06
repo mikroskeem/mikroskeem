@@ -75,6 +75,8 @@ Little to moderate experience with:
 
 ![yeee](https://github-readme-stats.vercel.app/api?username=mikroskeem&count_private=true)
 
+_[this is the graph thingy I used.](https://github.com/anuraghazra/github-readme-stats)_
+
 ## Public projects
 
 See pinned repositories.
