@@ -73,7 +73,7 @@ Little to moderate experience with:
 
 ## Some graph
 
-![yeee](https://github-readme-stats.vercel.app/api?username=mikroskeem&count_private=true)
+![yeee](https://github-readme-stats.vercel.app/api?username=mikroskeem&count_private=true&theme=onedark)
 
 _[this is the graph thingy I used.](https://github.com/anuraghazra/github-readme-stats)_
 
