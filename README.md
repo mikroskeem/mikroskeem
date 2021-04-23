@@ -82,3 +82,5 @@ _[this is the graph thingy I used.](https://github.com/anuraghazra/github-readme
 ## Public projects
 
 See pinned repositories.
+
+![](https://hit.yhype.me/github/profile?user_id=3490861)
