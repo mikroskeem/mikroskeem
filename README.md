@@ -14,11 +14,10 @@ I feel confident in:
 - Clojure
 - Go
 - Java
-- JavaScript (Node.js)
+- JavaScript & TypeScript ([Deno](https://deno.land/), Node.js)
 - Kotlin (JVM)
 - Python
 - Shell (POSIX, bash, zsh)
-- TypeScript
 
 Little to moderate experience with:
 - C
